@@ -83,6 +83,30 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </div>
 </a>
 
+
+<a class="paper-card" href="./ann-damping-low-frequency-oscillations/">
+<h3>Damping Undammed Low Frequency Oscillations in Power Systems: An ANN-Based Approach Using Pre-Disturbance Data</h3>
+<p>ANN-based online eigenvalue prediction and damping support for low-frequency oscillations using pre-disturbance PMU data, partial observability analysis, and three-area power system validation.</p>
+<div class="tag-list">
+<span class="tag">LFO Damping</span>
+<span class="tag">ANN</span>
+<span class="tag">PMU</span>
+<span class="tag">Eigenvalues</span>
+<span class="tag">WAMS</span>
+</div>
+</a>
+
+<a class="paper-card" href="./global-binary-optimal-pmu-placement/">
+<h3>Global-Binary Algorithm: New Optimal Phasor Measurement Unit Placement Algorithm</h3>
+<p>Optimal PMU placement algorithm using finite binary solution-space search, subsystem splitting, connectivity matrix observability, zero-injection buses, and Jordanian power system validation.</p>
+<div class="tag-list">
+<span class="tag">PMU Placement</span>
+<span class="tag">WAMS</span>
+<span class="tag">Observability</span>
+<span class="tag">Connectivity Matrix</span>
+<span class="tag">Jordan System</span>
+</div>
+</a>
 </div>
 ---
 
