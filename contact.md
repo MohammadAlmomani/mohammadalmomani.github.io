@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact
 
-**Mohammad M. Al-Momani**
+**Mohammad M. Almomani**
 
 Research interests:
 
