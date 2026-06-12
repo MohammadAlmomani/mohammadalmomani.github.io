@@ -37,6 +37,31 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 
 </div>
 
+
+<a class="paper-card" href="./novel-data-driven-indices-stvsi/">
+<h3>Novel Data-Driven Indices for Early Detection and Quantification of Short-Term Voltage Instability from Voltage Trajectories</h3>
+<p>Data-driven short-term voltage stability indices using voltage trajectories, EMD, Lyapunov Exponents, KL divergence, delayed voltage recovery analysis, oscillation stability assessment, and Nordic power system validation.</p>
+<div class="tag-list">
+<span class="tag">STVSI</span>
+<span class="tag">Voltage Trajectories</span>
+<span class="tag">EMD</span>
+<span class="tag">Lyapunov Exponents</span>
+<span class="tag">KL Divergence</span>
+</div>
+</a>
+
+
+<a class="paper-card" href="./extended-sensitivity-aware-reactive-power-dispatch/">
+<h3>Extended Sensitivity-Aware Reactive Power Dispatch Algorithm for Smart Inverters with Multiple Control Modes</h3>
+<p>Sensitivity-aware reactive power dispatch for smart inverters using PQ, PV, Volt-VAR control, Linear AC-OPF, VPP Volt-VAR dispatch, OpenDSS validation, IEEE 13-bus, and IEEE 123-bus systems.</p>
+<div class="tag-list">
+<span class="tag">Smart Inverters</span>
+<span class="tag">Reactive Dispatch</span>
+<span class="tag">Volt-VAR</span>
+<span class="tag">Linear OPF</span>
+<span class="tag">OpenDSS</span>
+</div>
+</a>
 ---
 
 ## More Papers Coming Soon
