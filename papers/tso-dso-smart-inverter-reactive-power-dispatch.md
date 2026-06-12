@@ -5,7 +5,7 @@ title: "TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Mul
 description: "Real-time TSO-DSO coordinated reactive power dispatch for IEEE 1547 smart inverters using MILP, SOS1, RLS, Volt-VAR, Volt-Watt, Watt-VAR, OpenDSS, and IEEE 13-bus and IEEE 123-bus test systems."
 permalink: /papers/tso-dso-smart-inverter-reactive-power-dispatch/
 keywords: "TSO-DSO coordination, reactive power dispatch, smart inverter, IEEE 1547, Volt-VAR, Volt-Watt, Watt-VAR, DER, MILP, SOS1, Recursive Least Squares, RLS, LineDistOPF, OpenDSS, IEEE 13-bus, IEEE 123-bus, distribution system optimization, inverter control modes"
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes — Real-Time Implementation
 
