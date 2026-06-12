@@ -35,9 +35,6 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </div>
 </a>
 
-
-
-
 <a class="paper-card" href="./novel-data-driven-indices-stvsi/">
 <h3>Novel Data-Driven Indices for Early Detection and Quantification of Short-Term Voltage Instability from Voltage Trajectories</h3>
 <p>Data-driven short-term voltage stability indices using voltage trajectories, EMD, Lyapunov Exponents, KL divergence, delayed voltage recovery analysis, oscillation stability assessment, and Nordic power system validation.</p>
@@ -49,7 +46,6 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 <span class="tag">KL Divergence</span>
 </div>
 </a>
-
 
 <a class="paper-card" href="./extended-sensitivity-aware-reactive-power-dispatch/">
 <h3>Extended Sensitivity-Aware Reactive Power Dispatch Algorithm for Smart Inverters with Multiple Control Modes</h3>
@@ -63,6 +59,18 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </div>
 </a>
 
+<a class="paper-card" href="./enhanced-entropy-based-metric-delayed-voltage-recovery/">
+<h3>Enhanced Entropy-Based Metric for Characterization of Delayed Voltage Recovery</h3>
+<p>Enhanced voltage recovery violation index for FIDVR characterization using EMD, KL divergence, voltage recovery envelopes, over-voltage detection, under-voltage detection, and Nordic system simulations.</p>
+<div class="tag-list">
+<span class="tag">EVRVI</span>
+<span class="tag">FIDVR</span>
+<span class="tag">EMD</span>
+<span class="tag">KL Divergence</span>
+<span class="tag">Voltage Recovery</span>
+</div>
+</a>
+
 </div>
 ---
 
@@ -70,9 +78,6 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 
 Additional paper pages will be added for:
 
-- Novel Data-Driven Indices for Early Detection and Quantification of Short-Term Voltage Instability from Voltage Trajectories
-- Extended Sensitivity-Aware Reactive Power Dispatch Algorithm for Smart Inverters with Multiple Control Modes
-- Enhanced Entropy-Based Metric for Characterization of Delayed Voltage Recovery
 - Ringdown Analysis for Low-Frequency Oscillation Identification
 - Modified Connectivity Matrix Algorithm
 - Connectivity Matrix Algorithm: A New Optimal Phasor Measurement Unit Placement Algorithm
