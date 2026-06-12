@@ -35,7 +35,7 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </div>
 </a>
 
-</div>
+
 
 
 <a class="paper-card" href="./novel-data-driven-indices-stvsi/">
@@ -62,6 +62,8 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 <span class="tag">OpenDSS</span>
 </div>
 </a>
+
+</div>
 ---
 
 ## More Papers Coming Soon
