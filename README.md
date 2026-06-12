@@ -1,4 +1,4 @@
-# Mohammad M. Al-Momani
+# Mohammad M. Almomani
 
 Power systems researcher working on optimal PMU placement, power system oscillation detection, PV modeling, transient stability prediction, and AI-based monitoring of modern power systems.
 
