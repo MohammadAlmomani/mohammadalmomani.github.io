@@ -1,4 +1,4 @@
-# Mohammad M. Al-Momani
+# Mohammad M. Almomani
 
 **Data-driven monitoring, stability assessment, and control of renewable- and DER-dominated power systems.**
 
