@@ -71,6 +71,18 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </div>
 </a>
 
+<a class="paper-card" href="./optimal-nonlinear-type2-fuzzy-fopid-fsm/">
+<h3>An Optimal Nonlinear Type-2 Fuzzy FOPID Control Design Based on Integral Performance Criteria Using FSM</h3>
+<p>Optimal nonlinear Type-2 Fuzzy fractional-order PID controller design using Fourier Series Method, modified TLBO, integral performance criteria, membership-function nonlinearity optimization, and footprint of uncertainty tuning.</p>
+<div class="tag-list">
+<span class="tag">Type-2 Fuzzy</span>
+<span class="tag">FOPID</span>
+<span class="tag">FSM</span>
+<span class="tag">MTLBO</span>
+<span class="tag">Control Design</span>
+</div>
+</a>
+
 </div>
 ---
 
