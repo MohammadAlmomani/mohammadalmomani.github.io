@@ -26,13 +26,13 @@ Power systems researcher working on optimal PMU placement, power system oscillat
 
 ## Profiles
 
-- [Google Scholar](https://scholar.google.com/citations?user=7Pp-qrkAAAAJ&hl=en)
-- ORCID: add your ORCID link here
-- Semantic Scholar: add your profile link here
-- ResearchGate: add your profile link here
-- LinkedIn: add your LinkedIn link here
-- GitHub: add your GitHub profile link here
+- Google Scholar: https://scholar.google.com/citations?user=7Pp-qrkAAAAJ&hl=en
+- ORCID: https://orcid.org/my-orcid?orcid=0000-0001-8292-348X
+- Semantic Scholar: https://www.semanticscholar.org/me/research
+- ResearchGate: https://www.researchgate.net/profile/Mohammad-Al-Momani-6?ev=hdr_xprf
+- LinkedIn: https://www.linkedin.com/in/mohammad-almomani-a8367a15b/
+- GitHub: https://github.com/MohammadAlmomani
 
 ## Contact
 
-Email: add your academic email here
+Email: monqedmohammad@gmail.com, mmomani@iastate.edu 
