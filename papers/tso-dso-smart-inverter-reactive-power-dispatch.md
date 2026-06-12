@@ -1,17 +1,16 @@
 ---
-
 layout: page
 title: "TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes"
 description: "Real-time TSO-DSO coordinated reactive power dispatch for IEEE 1547 smart inverters using MILP, SOS1, RLS, Volt-VAR, Volt-Watt, Watt-VAR, OpenDSS, and IEEE 13-bus and IEEE 123-bus test systems."
 permalink: /papers/tso-dso-smart-inverter-reactive-power-dispatch/
-------------------------------------------------------------------
+---
 
 # TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes — Real-Time Implementation
 
-**Authors:** Mohammad Almomani, Ahmed Alkhonain, and Venkataramana Ajjarapu
-**Research Area:** DER Coordination, Smart Inverter Control, TSO-DSO Reactive Power Dispatch
-**Status:** arXiv preprint / submitted version
-**arXiv:** https://arxiv.org/abs/2604.07064
+**Authors:** Mohammad Almomani, Ahmed Alkhonain, and Venkataramana Ajjarapu  
+**Research Area:** DER Coordination, Smart Inverter Control, TSO-DSO Reactive Power Dispatch  
+**Status:** arXiv preprint / submitted version  
+**arXiv:** [https://arxiv.org/abs/2604.07064](https://arxiv.org/abs/2604.07064)
 
 ---
 
@@ -51,22 +50,22 @@ This paper addresses this gap by jointly optimizing smart inverter operation mod
 
 ## Main Contributions
 
-1. **Unified MILP formulation for IEEE 1547 smart inverter control modes**
+1. **Unified MILP formulation for IEEE 1547 smart inverter control modes**  
    Volt-VAR, Volt-Watt, and Watt-VAR droop control modes are modeled using piecewise-linear constraints and Big-M modeling.
 
-2. **Real-time hierarchical optimization using SOS1**
+2. **Real-time hierarchical optimization using SOS1**  
    The method uses SOS1-based mode and segment selection to improve computational scalability.
 
-3. **Limited-observability implementation using RLS**
+3. **Limited-observability implementation using RLS**  
    The distribution network is divided into observable and unobservable sets, and Recursive Least Squares is used to estimate unknown parameters online.
 
-4. **TSO-DSO coordination algorithm**
+4. **TSO-DSO coordination algorithm**  
    The framework includes DSO aggregation, TSO reactive power dispatch, DSO disaggregation, and iterative re-aggregation.
 
-5. **Validation on standard test systems**
+5. **Validation on standard test systems**  
    The method is tested on IEEE 13-bus and IEEE 123-bus distribution networks connected to an IEEE 9-bus transmission system.
 
-6. **Improved voltage regulation with low curtailment**
+6. **Improved voltage regulation with low curtailment**  
    The optimized smart-inverter dispatch improves voltage support while reducing unnecessary real-power curtailment.
 
 ---
@@ -107,36 +106,36 @@ Reactive power is adjusted based on active power output.
 
 ## Optimization and Implementation Tools
 
-* Mixed-Integer Linear Programming (MILP)
-* Special Ordered Sets of type 1 (SOS1)
-* Big-M piecewise-linear modeling
-* LineDistOPF / LinDist3Flow-based distribution modeling
-* Recursive Least Squares (RLS) estimation
-* OpenDSS and Python for distribution simulation
-* Gurobi for optimization
-* PandaPower / PowerModels / Julia for transmission-level simulation
+- Mixed-Integer Linear Programming (MILP)
+- Special Ordered Sets of type 1 (SOS1)
+- Big-M piecewise-linear modeling
+- LineDistOPF / LinDist3Flow-based distribution modeling
+- Recursive Least Squares (RLS) estimation
+- OpenDSS and Python for distribution simulation
+- Gurobi for optimization
+- PandaPower / PowerModels / Julia for transmission-level simulation
 
 ---
 
 ## Test Systems
 
-* IEEE 13-bus distribution test system
-* IEEE 123-bus distribution test system
-* IEEE 9-bus transmission test system
-* Multiple DER penetration scenarios
-* Multiple smart-inverter control scenarios
-* Limited-measurement and real-time implementation settings
+- IEEE 13-bus distribution test system
+- IEEE 123-bus distribution test system
+- IEEE 9-bus transmission test system
+- Multiple DER penetration scenarios
+- Multiple smart-inverter control scenarios
+- Limited-measurement and real-time implementation settings
 
 ---
 
 ## Key Results
 
-* SOS1 improves computational efficiency compared with a full binary MILP formulation.
-* The optimized droop-based operation reaches the maximum available active power while preserving useful reactive flexibility.
-* The optimized mode achieves a reactive flexibility range of approximately **1.4 MVAR injection to -0.9 MVAR absorption** in the reported case.
-* The iterative TSO-DSO coordination process tracks the requested reactive power with small error after a limited number of DSO iterations.
-* Coordinated multi-mode smart-inverter dispatch improves transmission-voltage profiles under contingency conditions.
-* The SOS1 formulation scales better than the binary formulation for large numbers of DERs.
+- SOS1 improves computational efficiency compared with a full binary MILP formulation.
+- The optimized droop-based operation reaches the maximum available active power while preserving useful reactive flexibility.
+- The optimized mode achieves a reactive flexibility range of approximately **1.4 MVAR injection to -0.9 MVAR absorption** in the reported case.
+- The iterative TSO-DSO coordination process tracks the requested reactive power with small error after a limited number of DSO iterations.
+- Coordinated multi-mode smart-inverter dispatch improves transmission-voltage profiles under contingency conditions.
+- The SOS1 formulation scales better than the binary formulation for large numbers of DERs.
 
 ---
 
@@ -196,11 +195,11 @@ TSO-DSO coordination; reactive power dispatch; DER reactive power support; smart
 
 ## Links
 
-* **arXiv page:** https://arxiv.org/abs/2604.07064
-* **PDF:** https://arxiv.org/pdf/2604.07064
-* **Code repository:** Coming soon.
-* **Dataset / test cases:** Coming soon.
-* **Related paper:** Extended Sensitivity-Aware Reactive Power Dispatch Algorithm for Smart Inverters with Multiple Control Modes
+- **arXiv page:** [https://arxiv.org/abs/2604.07064](https://arxiv.org/abs/2604.07064)
+- **PDF:** [https://arxiv.org/pdf/2604.07064](https://arxiv.org/pdf/2604.07064)
+- **Code repository:** Coming soon.
+- **Dataset / test cases:** Coming soon.
+- **Related paper:** Extended Sensitivity-Aware Reactive Power Dispatch Algorithm for Smart Inverters with Multiple Control Modes
 
 ---
 
