@@ -18,7 +18,7 @@ Related papers:
 - Novel Data-Driven Indices for Early Detection and Quantification of Short-Term Voltage Instability from Voltage Trajectories
 - Enhanced Entropy-Based Metric for Characterization of Delayed Voltage Recovery
 
-Suggested contents:
+contents:
 
 - MATLAB/Python implementation
 - Nordic test system examples
@@ -36,7 +36,7 @@ Related papers:
 - TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes
 - Extended Sensitivity-Aware Reactive Power Dispatch Algorithm for Smart Inverters with Multiple Control Modes
 
-Suggested contents:
+contents:
 
 - OpenDSS test cases
 - IEEE 13-bus and IEEE 123-bus examples
@@ -54,7 +54,7 @@ Related papers:
 - Low Frequency Oscillation Analysis for Dynamic Performance of Power Systems
 - Damping Undammed Low Frequency Oscillations in Power Systems
 
-Suggested contents:
+contents:
 
 - Ringdown analysis code
 - Damping ratio estimation
@@ -72,7 +72,7 @@ Related papers:
 - Modified Connectivity Matrix Algorithm
 - Global-Binary Algorithm
 
-Suggested contents:
+contents:
 
 - Connectivity matrix algorithm
 - Modified connectivity matrix algorithm
@@ -89,7 +89,7 @@ Related paper:
 
 - Application of Artificial Intelligence Techniques for Modeling and Simulation of Photovoltaic Arrays
 
-Suggested contents:
+contents:
 
 - Single-diode model
 - Two-diode model
