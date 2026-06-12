@@ -200,9 +200,10 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 
 Additional paper pages will be added for:
 
-- Ringdown Analysis for Low-Frequency Oscillation Identification
-- Modified Connectivity Matrix Algorithm
-- Connectivity Matrix Algorithm: A New Optimal Phasor Measurement Unit Placement Algorithm
-- Global-Binary Algorithm: New Optimal Phasor Measurement Unit Placement Algorithm
 - Future Low Inertia Power Systems: A Comprehensive Review of Virtual Inertia Emulation Techniques and Inertia Estimation Methods
-- Application of Artificial Intelligence Techniques for Modeling and Simulation of Photovoltaic Arrays
+- PMU-Based Artificial Intelligence Techniques for Islanding Detection
+- The Dynamic Response of SPWM vs. SVPWM Synchronverter
+- Effect of DC/DC Losses on Optimal Power Flow in Multi-Terminal HVDC
+- Connectivity Matrix Algorithm: A New Optimal Phasor Measurement Unit Placement Algorithm
+- Low frequency oscillation analysis for dynamic performance of power systems
+- Performance Analysis of the Distance Relay Characteristics in a Compensated Transmission Line
