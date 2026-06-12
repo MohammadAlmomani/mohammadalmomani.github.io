@@ -17,12 +17,12 @@ footer,
 }
 
 .profile-photo {
-  width: 78px;
-  height: 78px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid rgba(255, 255, 255, 0.85);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25);
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
   background: white;
 }
 
@@ -33,8 +33,8 @@ footer,
 
 @media (max-width: 700px) {
   .profile-photo {
-    width: 62px;
-    height: 62px;
+    width: 34px;
+    height: 34px;
   }
 
   .brand {
