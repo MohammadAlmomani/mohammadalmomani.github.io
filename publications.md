@@ -64,8 +64,7 @@ permalink: /publications/
     Link: https://dsr.mutah.edu.jo/index.php/jje/article/view/4
 
 16. **Prediction of Transient Stability Using Wide Area Measurements Based on ANN**  
-    Stable link needed. Avoid using temporary cloudfront links on the final website.
-
+Link: https://www.researchgate.net/publication/355978262_Prediction_of_Transient_Stability_Using_Wide_Area_Measurements_Based_on_ANN
 ## Renewable Energy Modeling, Islanding Detection, and Protection
 
 17. **Application of Artificial Intelligence Techniques for Modeling and Simulation of Photovoltaic Arrays**  
@@ -75,7 +74,6 @@ permalink: /publications/
     Link: https://dsr.mutah.edu.jo/index.php/jje/article/view/3
 
 19. **Performance Analysis of the Distance Relay Characteristics in a Compensated Transmission Line**  
-    Stable DOI or publisher link needed.
-
+   Link: https://www.iieta.org/journals/ejee/paper/10.18280/ejee.230304
 20. **Modelling and Testing of a Numerical Pilot Distance Relay for Compensated Transmission Lines**  
-    Stable DOI or publisher link needed.
+   Link: https://www.researchgate.net/publication/347232553_Modelling_and_Testing_of_a_Numerical_Pilot_Distance_Relay_for_Compensated_Transmission_Lines
