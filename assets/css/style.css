@@ -1,0 +1,253 @@
+:root {
+  --bg: #f6f8fb;
+  --card: #ffffff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --heading: #0f172a;
+  --primary: #1d4ed8;
+  --primary-dark: #1e40af;
+  --border: #e5e7eb;
+  --soft: #eef2ff;
+  --shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  --radius: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.container {
+  width: min(1120px, calc(100% - 36px));
+  margin: 0 auto;
+}
+
+.site-header {
+  background: linear-gradient(135deg, #0f172a, #1d4ed8);
+  color: white;
+  padding: 28px 0;
+  box-shadow: var(--shadow);
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.site-title {
+  color: white;
+  text-decoration: none;
+  font-size: 1.65rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.site-subtitle {
+  margin: 4px 0 0;
+  color: #dbeafe;
+  font-size: 0.98rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.site-nav a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 999px;
+  font-size: 0.95rem;
+}
+
+.site-nav a:hover {
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.page-content {
+  margin-top: 34px;
+  margin-bottom: 48px;
+}
+
+.article {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 42px;
+}
+
+h1, h2, h3, h4 {
+  color: var(--heading);
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-top: 0;
+  margin-bottom: 22px;
+}
+
+h2 {
+  font-size: 1.65rem;
+  margin-top: 42px;
+  padding-top: 26px;
+  border-top: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-top: 28px;
+}
+
+p {
+  margin: 14px 0;
+}
+
+a {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+ul, ol {
+  padding-left: 1.35rem;
+}
+
+li {
+  margin: 7px 0;
+}
+
+strong {
+  color: var(--heading);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 30px 0;
+}
+
+code {
+  background: #f1f5f9;
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 0.92em;
+}
+
+pre {
+  background: #0f172a;
+  color: #e5e7eb;
+  padding: 20px;
+  border-radius: 14px;
+  overflow-x: auto;
+  font-size: 0.95rem;
+}
+
+pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+.article > p:first-of-type {
+  font-size: 1.05rem;
+}
+
+.article blockquote {
+  margin: 24px 0;
+  padding: 16px 22px;
+  background: var(--soft);
+  border-left: 5px solid var(--primary);
+  border-radius: 12px;
+}
+
+.paper-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.paper-card {
+  display: block;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 22px;
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.paper-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.12);
+  border-color: #bfdbfe;
+}
+
+.paper-card h3 {
+  margin-top: 0;
+  color: var(--primary);
+}
+
+.paper-card p {
+  color: var(--text);
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.tag {
+  background: #eff6ff;
+  color: #1e40af;
+  border: 1px solid #bfdbfe;
+  padding: 4px 9px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 24px 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 700px) {
+  .article {
+    padding: 26px;
+  }
+
+  .site-nav {
+    width: 100%;
+  }
+
+  .site-nav a {
+    font-size: 0.9rem;
+  }
+}
