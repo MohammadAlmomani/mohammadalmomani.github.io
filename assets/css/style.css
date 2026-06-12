@@ -31,12 +31,12 @@ body {
 }
 
 .site-header {
+  position: static;
   background: linear-gradient(135deg, #0f172a, #1d4ed8);
   color: white;
   padding: 28px 0;
   box-shadow: var(--shadow);
 }
-
 .header-content {
   display: flex;
   align-items: center;
@@ -236,6 +236,13 @@ pre code {
   padding: 24px 0;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.site-header,
+.header-content,
+.site-nav {
+  position: static !important;
+  top: auto !important;
 }
 
 @media (max-width: 700px) {
