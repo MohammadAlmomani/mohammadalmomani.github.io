@@ -84,6 +84,18 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </a>
 
 
+<a class="paper-card" href="./modified-connectivity-matrix-algorithm/">
+<h3>Modified Connectivity Matrix Algorithm</h3>
+<p>Optimal PMU placement algorithm for WAMS observability with N-1 redundancy, zero-injection buses, PMU loss criteria, line outage redundancy, and IEEE 14/30/57/118-bus validation.</p>
+<div class="tag-list">
+<span class="tag">PMU Placement</span>
+<span class="tag">MCMA</span>
+<span class="tag">N-1 Redundancy</span>
+<span class="tag">ZIB</span>
+<span class="tag">WAMS</span>
+</div>
+</a>
+
 <a class="paper-card" href="./ann-damping-low-frequency-oscillations/">
 <h3>Damping Undammed Low Frequency Oscillations in Power Systems: An ANN-Based Approach Using Pre-Disturbance Data</h3>
 <p>ANN-based online eigenvalue prediction and damping support for low-frequency oscillations using pre-disturbance PMU data, partial observability analysis, and three-area power system validation.</p>
