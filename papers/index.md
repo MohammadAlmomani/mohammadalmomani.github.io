@@ -119,6 +119,33 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 <span class="tag">Jordan System</span>
 </div>
 </a>
+
+
+<a class="paper-card" href="./ringdown-analysis-low-frequency-oscillation-identification/">
+<h3>Ringdown Analysis for Low-Frequency Oscillation Identification</h3>
+<p>PMU-based ringdown analysis for low-frequency oscillation identification using LPC, Prony analysis, Steiglitz-McBride, adaptive buffer size, latency compensation, data-dropout compensation, and reduced-order WADC modeling.</p>
+<div class="tag-list">
+<span class="tag">Ringdown</span>
+<span class="tag">LFO</span>
+<span class="tag">Prony</span>
+<span class="tag">LPC</span>
+<span class="tag">WADC</span>
+</div>
+</a>
+
+<a class="paper-card" href="./islanding-detection-ann-dfig/">
+<h3>Islanding Detection Method Based Artificial Neural Network</h3>
+<p>ANN-based islanding detection for DFIG wind turbines using phase voltage, phase current, neutral voltage, neutral current, three-phase power, backpropagation, genetic algorithm, cuckoo optimization, and sampling-rate analysis.</p>
+<div class="tag-list">
+<span class="tag">Islanding Detection</span>
+<span class="tag">ANN</span>
+<span class="tag">DFIG</span>
+<span class="tag">DER Protection</span>
+<span class="tag">Microgrid</span>
+</div>
+</a>
+
+
 </div>
 ---
 
