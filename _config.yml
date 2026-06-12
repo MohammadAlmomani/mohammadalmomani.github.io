@@ -1,3 +1,4 @@
 title: "Mohammad M. Al-Momani"
-description: "Research hub for power systems, PMU placement, oscillation detection, PV modeling, transient stability, short-term voltage stability, long-term voltage stability, distribution energy resources, inverter-based resources, data centers, and AI-based power system monitoring."
+description: "Research hub for data-driven monitoring, stability assessment, and control of renewable- and DER-dominated power systems."
 theme: jekyll-theme-minimal
+show_downloads: false
