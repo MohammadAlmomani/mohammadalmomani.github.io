@@ -13,11 +13,14 @@
 <body>
   <header class="site-header">
     <div class="container header-content">
-      <div>
-        <a class="site-title" href="{{ '/' | relative_url }}">Mohammad M. Al-Momani</a>
-        <p class="site-subtitle">Power Systems Stability · DERs · Smart Inverters · AI-Based Monitoring</p>
+      <div class="brand">
+        <img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Mohammad M. Al-Momani profile photo">
+      
+        <div class="brand-text">
+          <a class="site-title" href="{{ '/' | relative_url }}">Mohammad M. Al-Momani</a>
+          <p class="site-subtitle">Power Systems Stability · DERs · Smart Inverters · AI-Based Monitoring</p>
+        </div>
       </div>
-
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/research/' | relative_url }}">Research</a>
