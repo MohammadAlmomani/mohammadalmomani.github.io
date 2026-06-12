@@ -3,7 +3,7 @@
 layout: page
 title: "Trajectory-Based Nonlinear Indices for Real-Time Monitoring and Quantification of Short-Term Voltage Stability"
 permalink: /papers/trajectory-based-nonlinear-indices-stvs/
------------------------------------------------------------
+---
 
 # Trajectory-Based Nonlinear Indices for Real-Time Monitoring and Quantification of Short-Term Voltage Stability
 
