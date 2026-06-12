@@ -145,6 +145,53 @@ This page collects searchable summaries, abstracts, keywords, citation informati
 </div>
 </a>
 
+<a class="paper-card" href="./wind-generation-impact-low-frequency-oscillation/">
+<h3>The Impact of Wind Generation on Low Frequency Oscillation in Power Systems</h3>
+<p>Impact of FSWT and DFIG wind generation on local and interarea low-frequency oscillation modes using three-area test system eigenvalue analysis, ring and string configurations, and renewable penetration studies.</p>
+<div class="tag-list">
+<span class="tag">Wind Generation</span>
+<span class="tag">LFO</span>
+<span class="tag">DFIG</span>
+<span class="tag">FSWT</span>
+<span class="tag">WADC</span>
+</div>
+</a>
+
+<a class="paper-card" href="./transient-stability-wide-area-measurements-ann/">
+<h3>Prediction of Transient Stability Using Wide Area Measurements Based on ANN</h3>
+<p>ANN-based transient stability prediction using WAMS, PMU data, generator speeds, IEEE 39-bus system, NEPLAN, MATLAB, and 100 ms post-fault instability prediction.</p>
+<div class="tag-list">
+<span class="tag">Transient Stability</span>
+<span class="tag">ANN</span>
+<span class="tag">WAMS</span>
+<span class="tag">PMU</span>
+<span class="tag">IEEE 39-Bus</span>
+</div>
+</a>
+
+<a class="paper-card" href="./numerical-pilot-distance-relay-compensated-lines/">
+<h3>Modelling and Testing of a Numerical Pilot Distance Relay for Compensated Transmission Lines</h3>
+<p>Numerical pilot distance relay for FACTS-compensated transmission lines using five-zone mho characteristic, reverse zones, STATCOM, SSSC, UPFC, and MATLAB Simulink validation.</p>
+<div class="tag-list">
+<span class="tag">Distance Relay</span>
+<span class="tag">FACTS</span>
+<span class="tag">STATCOM</span>
+<span class="tag">UPFC</span>
+<span class="tag">Protection</span>
+</div>
+</a>
+
+<a class="paper-card" href="./ai-techniques-modeling-simulation-photovoltaic-arrays/">
+<h3>Application of Artificial Intelligence Techniques for Modeling and Simulation of Photovoltaic Arrays</h3>
+<p>AI-based PV array modeling using GA, COA, single-diode and two-diode models, I-V curve fitting, MATLAB simulation, and Mutah University PV plant validation.</p>
+<div class="tag-list">
+<span class="tag">PV Modeling</span>
+<span class="tag">GA</span>
+<span class="tag">COA</span>
+<span class="tag">Two-Diode Model</span>
+<span class="tag">Renewable Energy</span>
+</div>
+</a>
 
 </div>
 ---
