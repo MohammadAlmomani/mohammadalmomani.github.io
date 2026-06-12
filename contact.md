@@ -24,7 +24,7 @@ Research interests:
 - Google Scholar: https://scholar.google.com/citations?user=7Pp-qrkAAAAJ&hl=en
 - ORCID: https://orcid.org/my-orcid?orcid=0000-0001-8292-348X
 - Semantic Scholar: https://www.semanticscholar.org/me/research
-- ResearchGate: researchgate.net/profile/Mohammad-Al-Momani-6?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ
+- ResearchGate: https://www.researchgate.net/profile/Mohammad-Al-Momani-6?ev=hdr_xprf
 - LinkedIn: https://www.linkedin.com/in/mohammad-almomani-a8367a15b/
 - GitHub: https://github.com/MohammadAlmomani
 
