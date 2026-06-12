@@ -46,5 +46,5 @@ My research focuses on measurement-based stability indices, optimization algorit
 - [ORCID]( https://orcid.org/my-orcid?orcid=0000-0001-8292-348X)
 - [Semantic Scholar](https://www.semanticscholar.org/me/research)
 - [ResearchGate](https://www.researchgate.net/profile/Mohammad-Al-Momani-6?ev=hdr_xprf)
-- [LinkedIn]https://www.linkedin.com/in/mohammad-almomani-a8367a15b/
+- [LinkedIn](https://www.linkedin.com/in/mohammad-almomani-a8367a15b/)
 - [GitHub](https://github.com/MohammadAlmomani)
