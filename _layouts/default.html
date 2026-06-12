@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container header-content">
+      <div>
+        <a class="site-title" href="{{ '/' | relative_url }}">Mohammad M. Al-Momani</a>
+        <p class="site-subtitle">Power Systems Stability · DERs · Smart Inverters · AI-Based Monitoring</p>
+      </div>
+
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/papers/' | relative_url }}">Papers</a>
+        <a href="{{ '/code/' | relative_url }}">Code</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container page-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© {{ site.time | date: "%Y" }} Mohammad M. Al-Momani · Research hub for power system stability and DER-dominated grids.</p>
+    </div>
+  </footer>
+</body>
+</html>
