@@ -9,23 +9,33 @@ permalink: /papers/
 
 This page collects searchable summaries, abstracts, keywords, citation information, and links for my research papers.
 
-## Short-Term Voltage Stability and Voltage Trajectory Analytics
+<div class="paper-grid">
 
-### [Trajectory-Based Nonlinear Indices for Real-Time Monitoring and Quantification of Short-Term Voltage Stability](./trajectory-based-nonlinear-indices-stvs/)
+<a class="paper-card" href="./trajectory-based-nonlinear-indices-stvs/">
+<h3>Trajectory-Based Nonlinear Indices for Real-Time Monitoring and Quantification of Short-Term Voltage Stability</h3>
+<p>Real-time short-term voltage stability monitoring using EMD, Lyapunov exponents, KL divergence, delayed voltage recovery analysis, oscillation stability assessment, and Nordic test system validation.</p>
+<div class="tag-list">
+<span class="tag">STVS</span>
+<span class="tag">Voltage Trajectories</span>
+<span class="tag">Lyapunov Exponents</span>
+<span class="tag">EMD</span>
+<span class="tag">KL Divergence</span>
+</div>
+</a>
 
-Trajectory-based nonlinear indices for real-time short-term voltage stability monitoring using Empirical Mode Decomposition, Lyapunov exponents, KL divergence, delayed voltage recovery analysis, oscillation stability assessment, and Nordic test system validation.
+<a class="paper-card" href="./tso-dso-smart-inverter-reactive-power-dispatch/">
+<h3>TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes</h3>
+<p>Real-time TSO-DSO coordinated reactive power dispatch for IEEE 1547 smart inverters using MILP, SOS1, RLS, Volt-VAR, Volt-Watt, Watt-VAR, OpenDSS, IEEE 13-bus, and IEEE 123-bus systems.</p>
+<div class="tag-list">
+<span class="tag">TSO-DSO</span>
+<span class="tag">Smart Inverters</span>
+<span class="tag">IEEE 1547</span>
+<span class="tag">MILP</span>
+<span class="tag">SOS1</span>
+</div>
+</a>
 
-**Keywords:** short-term voltage stability, STVS, voltage trajectory, delayed voltage recovery, FIDVR, Lyapunov exponent, empirical mode decomposition, EMD, KL divergence, recovery stability index, oscillation stability index, Nordic test system.
-
----
-
-## DER Coordination and Smart Inverter Reactive Power Dispatch
-
-### [TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes — Real-Time Implementation](./tso-dso-smart-inverter-reactive-power-dispatch/)
-
-Real-time TSO-DSO coordinated reactive power dispatch for IEEE 1547 smart inverters using MILP, SOS1, RLS, Volt-VAR, Volt-Watt, Watt-VAR, OpenDSS, and IEEE 13-bus and IEEE 123-bus distribution test systems.
-
-**Keywords:** TSO-DSO coordination, reactive power dispatch, smart inverter, IEEE 1547, Volt-VAR, Volt-Watt, Watt-VAR, DER, MILP, SOS1, RLS, OpenDSS, IEEE 13-bus, IEEE 123-bus.
+</div>
 
 ---
 
